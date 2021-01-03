@@ -1,7 +1,7 @@
-title: Woszi
+title: Blog Woszi
 subtitle: Moja podróż przez świat cyberbezpieczeńśtwa
 description: >- # this means to ignore newlines until "baseurl:"
-Postęp w zdobywaniu wiedzy na początku na takich platformach jak tryhackme lub hackthebox
+  Blog poświęcony cyberbezpieczeńśtwu.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,45 +13,39 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-##    - text: Gallery
-##      url: /gallery
-##    - text: Shop
-##     url : /shop
-##    - text: Contact
-##      url : /contact
-##   - text: Styleguide
-##      url: /styleguide
-##   - text: Get Started
-##    url: /get-started
+
+    - text: Contact
+      url : /contact
+
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Woszi 
-author_bio: Cześć, ma na imię Damian 
+author: Woszi
+author_bio: Cześć, ma na imię Damian
 author_email: "dorejestracjiwww@protonmail.com"
 author_location: Poland
 author_website_url: "https://"
-typewrite-text: Praca i rozwój i ciekawostki z cyberka
+typewrite-text: Niezwykły świat cyberbezpieczeńśtwa.
 
 # Experiences
 author_work_experiences:
-            - company_name: MON
+            - company_name: Google
               company_logo: google.png
               company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              designation: Junior Specialist
+              description: ScriptKid
               visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              designation: ADDS Admin
+              description: Doświadczenie z róznymi produktami Microsoft
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: WAT
+              - college_logo: wat.png
                 college_name: WAT
                 college_url: https://wat.edu.pl
                 college_degree: Master of Science
@@ -60,15 +54,10 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail:
+                project_title:
+                project_description:
+                project_url:
                 visibility: false
 
 # social links
@@ -89,13 +78,13 @@ flickr_username: woszi
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: woszi
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: dorejestracjiwww@protonmail.com
 
 # syntax highlighter
 markdown: kramdown
