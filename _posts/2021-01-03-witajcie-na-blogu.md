@@ -12,7 +12,7 @@ usemathjax: true
 ---
 
 
-Witam wszystkich serdeczenie, na tym blogu będą się pojawiać efekty mojej pracy. Przede wszystkim będzie on mocno związany z szeroko pojętym cyberbezpieczeństwem, będę starał się tu przedstawiać rozwiązania maszyn z takich serwisów jak hackthebox czy tryhackme. Na blogu będę również zamieszał wszystkie informacje które będą mi pomocne w trakcie nauki, ciekawostki z świata cyber itp.
+Witam wszystkich serdeczenie, na tym blogu będą się pojawiać efekty mojej pracy. Przede wszystkim będzie on mocno związany z szeroko pojętym cyberbezpieczeństwem, będę starał się tu przedstawiać rozwiązania maszyn z takich serwisów jak hackthebox czy tryhackme. Na blogu będę również zamieszał wszystkie informacje które będą mi pomocne w trakcie nauki, ciekawostki z świata cyber, opisy kursów i szkolenie które uda mi się ukonczyć i wiele więcej.
 
 Serdecznie zapraszam do śledzenia blogu!:)
 

@@ -5,14 +5,14 @@
     <description>Blog poświęcony cyberbezpieczeńśtwu.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jan 2021 20:19:14 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2021 20:19:14 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Jan 2021 20:43:32 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2021 20:43:32 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
 
     
       <item>
         <title>Witajcie na moim blogu!</title>
-        <description>&lt;p&gt;Witam wszystkich serdeczenie, na tym blogu będą się pojawiać efekty mojej pracy. Przede wszystkim będzie on mocno związany z szeroko pojętym cyberbezpieczeństwem, będę starał się tu przedstawiać rozwiązania maszyn z takich serwisów jak hackthebox czy tryhackme. Na blogu będę również zamieszał wszystkie informacje które będą mi pomocne w trakcie nauki, ciekawostki z świata cyber itp.&lt;/p&gt;
+        <description>&lt;p&gt;Witam wszystkich serdeczenie, na tym blogu będą się pojawiać efekty mojej pracy. Przede wszystkim będzie on mocno związany z szeroko pojętym cyberbezpieczeństwem, będę starał się tu przedstawiać rozwiązania maszyn z takich serwisów jak hackthebox czy tryhackme. Na blogu będę również zamieszał wszystkie informacje które będą mi pomocne w trakcie nauki, ciekawostki z świata cyber, opisy kursów i szkolenie które uda mi się ukonczyć i wiele więcej.&lt;/p&gt;
 
 &lt;p&gt;Serdecznie zapraszam do śledzenia blogu!:)&lt;/p&gt;
 
